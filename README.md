@@ -17,3 +17,9 @@ Como se puede ver en la imagen:
 - la contraseña está colocada con una variable de entorno para que pueda ser creada por cualquiera que use esta api, el nombre de esta es <strong>DB_MYSQL_PASSWORD</strong>
 
 ## API funcionando
+Una vez realizadas las configuraciones podremos usarla y se podran usar los siguientes endpoints
+- http://localhost:4000/bus GET
+- http://localhost:4000/bus/id GET
+- http://localhost:4000/bus POST
+- http://localhost:4000/marcas GET
+- http://localhost:4000/marcas POST
