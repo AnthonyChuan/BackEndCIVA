@@ -27,9 +27,10 @@ Una vez realizadas las configuraciones podremos usarla y se podran usar los sigu
 ### http://localhost:4000/bus
 <img src="src/main/java/com/CIVA/IMg/metodogetbus.png" alt="metodo get bus"></img>
 ### http://localhost:4000/bus/id
-
+<img src="src/main/java/com/CIVA/IMg/metodogetbusbyid.png" alt="metodo get bus por id"></img>
 ### http://localhost:4000/bus POST
-
+<img src="src/main/java/com/CIVA/IMg/MetodoPostBus.png" alt="metodo get bus por id"></img>
 ### http://localhost:4000/marcas
 <img src="src/main/java/com/CIVA/IMg/MetodogetMarcas.png" alt="metodo get marcas"></img>
 ### http://localhost:4000/marcas POST
+<img src="src/main/java/com/CIVA/IMg/MetodoPostMarcas.png" alt="metodo get bus por id"></img>
