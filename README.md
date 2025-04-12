@@ -23,3 +23,6 @@ Una vez realizadas las configuraciones podremos usarla y se podran usar los sigu
 - http://localhost:4000/bus POST
 - http://localhost:4000/marcas GET
 - http://localhost:4000/marcas POST
+
+### http://localhost:4000/bus
+<img src="src/main/java/com/CIVA/IMg/metodogetbus.png" alt="metodo get bus"></img>
